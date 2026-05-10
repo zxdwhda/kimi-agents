@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+
+# Kimi CLI session data (if testing locally)
+.kimi/sessions/
